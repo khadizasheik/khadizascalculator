@@ -1,0 +1,11 @@
+C:\Users\khadi\source\repos\khadizascalculator\khadizascalculator\obj\Debug\khadizascalculator.csproj.AssemblyReference.cache
+C:\Users\khadi\source\repos\khadizascalculator\khadizascalculator\obj\Debug\khadizascalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\khadi\source\repos\khadizascalculator\khadizascalculator\obj\Debug\khadizascalculator.Form1.resources
+C:\Users\khadi\source\repos\khadizascalculator\khadizascalculator\obj\Debug\khadizascalculator.Properties.Resources.resources
+C:\Users\khadi\source\repos\khadizascalculator\khadizascalculator\obj\Debug\khadizascalculator.csproj.GenerateResource.cache
+C:\Users\khadi\source\repos\khadizascalculator\khadizascalculator\obj\Debug\khadizascalculator.csproj.CoreCompileInputs.cache
+C:\Users\khadi\source\repos\khadizascalculator\khadizascalculator\bin\Debug\khadizascalculator.exe.config
+C:\Users\khadi\source\repos\khadizascalculator\khadizascalculator\bin\Debug\khadizascalculator.exe
+C:\Users\khadi\source\repos\khadizascalculator\khadizascalculator\bin\Debug\khadizascalculator.pdb
+C:\Users\khadi\source\repos\khadizascalculator\khadizascalculator\obj\Debug\khadizascalculator.exe
+C:\Users\khadi\source\repos\khadizascalculator\khadizascalculator\obj\Debug\khadizascalculator.pdb
